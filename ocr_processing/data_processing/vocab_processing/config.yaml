@@ -1,5 +1,0 @@
-input_dir: "/home/trucly/Documents/DATASET/PROJECTS/NATCOM/card_type_2/"
-output_dir: "outputs/card_type_2/"
-limit_num_char: 100
-replace_OOV: False
-ignore_OOV: False
